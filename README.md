@@ -1,6 +1,6 @@
  👋 Hi, I’m @Niteshchawla
 
-- Business & Data Science Professional specializing in Data Science and Machine Learning
+- Business & Data Science Professional specializing in Data Analytics and Machine Learning
 - Strategic professional with nearly 10 years of organizational and nearly 8 years of entrepreneurial experience; offering year-on-year success in achieving business growth objectives by investigating new business opportunities & maximizing the competitive strength for long-term success
 - Pivotal in strategy formulation, collaborating with manufacturers, vendors, suppliers and managed the development of business-wide operations.
 
